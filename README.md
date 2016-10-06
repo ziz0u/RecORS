@@ -1,5 +1,5 @@
 # RecORS
-Recordings online radio streams from linux
+Recordings Online Radio Streams *(from linux)
 
 
 Crontab entries:
