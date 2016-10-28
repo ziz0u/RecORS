@@ -3,7 +3,7 @@
 date=`date +"%Y%m%d"`
 hour_tmp=`date +"%k"`
 url=http://ice22.securenetsystems.net/UNIVM
-duration=4200
+duration=3780
 
 if [ $hour_tmp -lt 12 ]; then
 	hour=Am
